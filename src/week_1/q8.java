@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class q8 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int n=12;
         int k=6;
         List<Integer>res=new ArrayList<>();
