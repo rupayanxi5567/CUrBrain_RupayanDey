@@ -1,7 +1,7 @@
 package week_1;
 
 public class q7 {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int [] a = {1,7,14,28};
         int res=a[0];
         for(int i=1;i<=a.length-1;i++){
